@@ -1,15 +1,18 @@
 body {
-  background-color: deepskyblue;
+  background-color: gold;
 }
 h1 {
-  color: white;
+  color: navy;
 }
 h2 {
-  color: white;
+  color: navy;
 }
 h3 {
-  color: white;
+  color: navy;
 }
 p {
-  color: white;
+  color: navy;
+}
+li {
+  color: navy;
 }
