@@ -1,19 +1,7 @@
 body {
-  background-color: gold;
+  background-color: orange;
 }
-h1 {
-  color: navy;
-  font-size: 100%;
+.black-text {
+  color: black;
 }
-h2 {
-  color: navy;
-}
-h3 {
-  color: navy;
-}
-p {
-  color: navy;
-}
-li {
-  color: navy;
-}
+
