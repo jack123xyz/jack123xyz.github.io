@@ -7,9 +7,15 @@ body {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 42px;
+	font-color: orange; 
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
+}
+
+#container {
+	width: 800px;
+	margin: 40px auto 60px;
 }
 
 .orange-text {
