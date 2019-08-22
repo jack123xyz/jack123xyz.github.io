@@ -1,7 +1,6 @@
 body {
   font: 16px "Times New Roman", Times, serif;
-  background-color: #160463;
-  font-color: white;
+  background-color: white;
 }
 
 #content-contact {
@@ -37,4 +36,8 @@ border-bottom: 1px solid #999;
 #content-info {
 margin-top: 0px;
 margin-bottom: 0px;
+}
+
+.white-font {
+font-color: white;
 }
