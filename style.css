@@ -20,8 +20,16 @@ body {
 
 #content-profileheader {
 	font-size: 28px;
+	font-weight: bold;
 
 .orange-text {
   color: orange;
 }
 
+h2 {
+	border-bottom: 1px solid #999;
+	}
+h3{
+	margin-top: 0px;
+	margin-bottom: 0px;
+}
