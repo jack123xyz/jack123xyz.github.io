@@ -7,7 +7,6 @@ body {
 	margin: 0 0 16px 0;
 	padding: 0 0 16px 0;
 	font-size: 42px;
-	font-color: orange; 
 	font-weight: bold;
 	letter-spacing: -2px;
 	border-bottom: 1px solid #999;
@@ -21,9 +20,6 @@ body {
 #content-profileheader {
 	font-size: 28px;
 	font-weight: bold;
-
-.orange-text {
-  color: orange;
 }
 
 h2 {
