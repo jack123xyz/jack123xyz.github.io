@@ -22,7 +22,11 @@ body {
 	font-weight: bold;
 }
 
-h2 {
+#content-education {
+border-bottom: 1px solid #999;
+	}
+
+#content-workexperience {
 border-bottom: 1px solid #999;
 	}
 h3 {
