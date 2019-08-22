@@ -2,7 +2,6 @@ body {
   font: 16px "Times New Roman", Times, serif;
   background-color: white;
   color: white;
-  background: url();
 }
 
 #content-contact {
@@ -41,6 +40,4 @@ margin-top: 0px;
 margin-bottom: 0px;
 }
 
-.white-font {
-font-color: white;
-}
+
